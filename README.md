@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi
 - 👀 I’m interested in solving computer vision problems using deep learning
-- 🌱 I’m currently learning porting models on edge devices
+- 🌱 I’m currently learning Quantum AI 
 - 💞️ I’m looking to collaborate on porting models on edge devices for solving business problems
 - 📫 You can reach me through mail rsrmulukuri@gmail.com
